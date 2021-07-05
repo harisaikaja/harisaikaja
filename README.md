@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @harisaikaja currently working as a Data Engineer and I am a member at [FSMI](https://fsmi.in), I have 4 years of experience in application development as a Full Stack Developer
+- 👀 I’m interested in solving complex problems using technology and always pus myself in adapting new trends in industry
+- 🌱 I’m currently learning DevOps 
+- 💞️ I’m looking to collaborate on upskilling programs and FOSS projects in Application Development.
